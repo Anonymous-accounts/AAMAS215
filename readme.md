@@ -1,6 +1,6 @@
 gym-minigrid/
 
-# Learning Top-𝑘 Subtask Planning Tree based on Discriminative Representation Pre-training for Decision Making
+# Learning Top-K Subtask Planning Tree based on Discriminative Representation Pre-training for Decision Making
 
 ## 1. Dataset Download
 We collect the dataset for training our first step, please download it from :

@@ -1,0 +1,2 @@
+here : /data2/username_high/username/BABYAI/babyai-dyth-v1.1-and-baselines-pyg/scripts/3_pre_train_task/
+the same 

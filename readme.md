@@ -1,4 +1,3 @@
-gym-minigrid/
 
 # Learning Top-K Subtask Planning Tree based on Discriminative Representation Pre-training for Decision Making
 
